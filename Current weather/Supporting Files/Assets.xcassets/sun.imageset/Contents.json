@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "the-sun-icon-is-yellow-abstract-sun-to-represent-the-weather-screen-brightness-and-energy-button-summer-heat-warm-on-an-isolated-background-stock-illustration-in-flat-style-vector.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
